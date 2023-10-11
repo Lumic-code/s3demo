@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "/dgsRJs3R8LWogmhuXdIPz5tDHWp0tKLM/Hf2DCmkFE=",
+  "Source": "AmazonS3.demo",
+  "BasePath": "_content/AmazonS3.demo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
